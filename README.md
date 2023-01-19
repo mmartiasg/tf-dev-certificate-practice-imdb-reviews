@@ -1,5 +1,3 @@
-Practice exercise
-
 Implementation will be carried on 
  - Keras
  - Tensorflow 2
